@@ -77,11 +77,11 @@ docker images
 ### 5. Run a Container
 docker run -d -p 8080:8080 --name springboot-app springboot-docker-demo
 
--d`: Runs the container in the background.
+-d: Runs the container in the background.
 
--p 8080:8080`: Maps host port 8080 to container port 8080.
+-p 8080:8080: Maps host port 8080 to container port 8080.
 
---name`: Assigns a name to the container.
+--name: Assigns a name to the container.
 
 ### 6. Check Running Containers
 docker ps
