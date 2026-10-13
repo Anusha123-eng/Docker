@@ -63,14 +63,23 @@ Containers provide a consistent environment for applications across development,
 
 
 springboot-docker-demo/
+
 ├── src/
+
 │   └── main/
+
 │       ├── java/
+
 │       └── resources/
+
 ├── pom.xml
+
 ├── Dockerfile
+
 ├── .dockerignore
+
 └── README.md
+
 
 *Note: The structure may differ slightly depending on your actual project.*
 
